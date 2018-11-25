@@ -4,3 +4,4 @@ Some examples of using Chainer Deep Learning framework to conduct linear regress
 
 Nikkei 225 index data provided by Refinitiv Eikon Data API for Python.
 
+https://developers.thomsonreuters.com/
